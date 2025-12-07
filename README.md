@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0029-divide-two-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0002-add-two-numbers) |
 | [2050-count-good-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2050-count-good-numbers) |
 ## Monotonic Stack
 |  |
