@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0496-next-greater-element-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0022-generate-parentheses) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
