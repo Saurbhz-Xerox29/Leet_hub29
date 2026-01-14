@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0160-intersection-of-two-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0023-merge-k-sorted-lists) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Dynamic Programming
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Saurabh29-hub/Leet_hub29/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
